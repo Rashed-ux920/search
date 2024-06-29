@@ -1,0 +1,51 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "rashed",
+      "age": "20"
+    },
+    {
+      "id": "2",
+      "name": "rami",
+      "age": "20"
+    },
+    {
+      "id": "3",
+      "name": "heba",
+      "age": "20"
+    },
+    {
+      "id": "4",
+      "name": "lith",
+      "age": "20"
+    },
+    {
+      "id": "5",
+      "name": "abdallah",
+      "age": "22"
+    }
+  ],
+  "post": [
+    {
+      "id": "1",
+      "text": "lorem hasufiha asiuhfaoiu asudfhqwiouhf asdfqowiefuahesfhiqe efqhowehf afoiuqawerfh  ewfqwe asefqweofu af"
+    },
+    {
+      "id": "1",
+      "text": "lorem hasufiha asiuhfaoiu asudfhqwiouhf asdfqowiefuahesfhiqe efqhowehf afoiuqawerfh  ewfqwe asefqweofu af"
+    },
+    {
+      "id": "1",
+      "text": "lorem hasufiha asiuhfaoiu asudfhqwiouhf asdfqowiefuahesfhiqe efqhowehf afoiuqawerfh  ewfqwe asefqweofu af"
+    },
+    {
+      "id": "2",
+      "text": "lorem hasufiha asiuhfaoiu asudfhqwiouhf asdfqowiefuahesfhiqe efqhowehf afoiuqawerfh  ewfqwe asefqweofu af"
+    },
+    {
+      "id": "2",
+      "text": "lorem hasufiha asiuhfaoiu asudfhqwiouhf asdfqowiefuahesfhiqe efqhowehf afoiuqawerfh  ewfqwe asefqweofu af"
+    }
+  ]
+}
